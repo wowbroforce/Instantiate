@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Instantiate_Tests' do
+  pod 'Instantiate', :path => '../'
+  
+  
+end
