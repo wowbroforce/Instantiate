@@ -1,0 +1,16 @@
+PODS:
+  - Instantiate (0.1.0)
+
+DEPENDENCIES:
+  - Instantiate (from `../`)
+
+EXTERNAL SOURCES:
+  Instantiate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Instantiate: 32e13ba7198492c2a436c34bddfa0ac8371d5180
+
+PODFILE CHECKSUM: 2a386590ded1a0cd8002b4655156d5b81dd460c4
+
+COCOAPODS: 1.1.1

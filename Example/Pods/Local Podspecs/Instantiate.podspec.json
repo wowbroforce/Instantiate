@@ -1,0 +1,22 @@
+{
+  "name": "Instantiate",
+  "version": "0.1.0",
+  "summary": "A short description of Instantiate.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wowbroforce/Instantiate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wowbroforce": "wowbroforce@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/wowbroforce/Instantiate.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Instantiate/Classes/**/*"
+}
