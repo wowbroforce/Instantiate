@@ -11,7 +11,7 @@ import UIKit
 extension UIView: Instantiable { }
 
 extension Instantiable where Self: UIView {
-    static func instantiate() -> Self {
+    public static func instantiate() -> Self {
         let xibName = String(describing: self)
         let bundle = Bundle(for: self)
         return bundle
