@@ -9,7 +9,7 @@ This is the set of helper methods for `UIView` and `UIViewController` classes wh
 To install Associate, simply add the following line to your Podfile:
 
 ```ruby
-pod "Instantiate"
+pod 'Instantiate', :podspec => 'https://raw.githubusercontent.com/wowbroforce/Instantiate/master/Instantiate.podspec'
 ```
 
 ## Author
